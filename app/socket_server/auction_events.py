@@ -8,5 +8,9 @@ class Auction(socketio.AsyncNamespace):
         print('disconnect ', sid)
 
     async def on_join_room(self, sid, data):
-        print(f"Bhyi my event {data}")
         self.enter_room(sid, data["roomId"])
+        room_data = {
+            "room_id": data["roomId"]
+        }
+        await self.emit("gamespace", room_data, room=data["roomId"])
+        print("Done")
