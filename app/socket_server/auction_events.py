@@ -1,13 +1,17 @@
 import socketio
-from app.utils.user_manager import add_users, get_users_in_room
+from app.utils.user_manager import add_users, get_users_in_room, user_list, remove_user_from_room
 from app.utils.datatype_models import UserDetails
 
 class Auction(socketio.AsyncNamespace):
     def on_connect(self, sid, environ):
         print('connect Auction namespace ', sid)
 
+    # Resolve user_list as global state problem
     def on_disconnect(self, sid):
+        print(user_list, "BEFOREE")
         print('disconnect ', sid)
+        remove_user_from_room(sid)
+        print(user_list, "AFTER")
 
     async def on_join_room(self, sid, data):
         room_data = UserDetails(
