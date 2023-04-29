@@ -23,8 +23,8 @@ class Auction(socketio.AsyncNamespace):
         user_manager.add_users(room_data)
         users_in_room_data = user_manager.get_users_in_room(room_data.room_id)
 
-        print(users_in_room_data, type(users_in_room_data[0]))
         payload: Dict[str, Any] = {
+            "room_id": data["roomId"],
             "room_data": users_in_room_data,
             "error": ""
         }

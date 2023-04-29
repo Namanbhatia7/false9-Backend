@@ -4,6 +4,7 @@ from app.utils.datatype_models import UserDetails
 
 class UserManager():
     user_list: List[UserDetails] = []
+    room_list: List[Dict[str, Any]] = []
 
     @classmethod
     def add_users(cls, payload: UserDetails):
@@ -15,8 +16,8 @@ class UserManager():
             )
         )
 
-    def get_users_in_room(self, room_id: str):
-        room_data_list = [user.json() for user in self.user_list if user.room_id == room_id]
+    def get_users_in_room(self, room_id: str) -> List[Dict[str, Any]]:
+        room_data_list = [user.dict() for user in self.user_list if user.room_id == room_id]
         return room_data_list
 
     @classmethod
