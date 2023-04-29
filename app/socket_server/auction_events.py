@@ -20,21 +20,23 @@ class Auction(socketio.AsyncNamespace):
             user_id = sid
         )
 
-        no_of_users = user_manager.get_users_in_room(room_data.room_id)
+        user_manager.add_users(room_data)
+        users_in_room_data = user_manager.get_users_in_room(room_data.room_id)
 
+        print(users_in_room_data, type(users_in_room_data[0]))
         payload: Dict[str, Any] = {
-            "room_data": room_data.json(),
+            "room_data": users_in_room_data,
             "error": ""
         }
 
-        if no_of_users < 2:
+        if len(users_in_room_data) <= 2:
             try:
                 self.enter_room(sid, data["roomId"])
             except:
                 print("Error while joining the room")
+                user_manager.remove_user_from_room(sid)
                 payload["error"] = "Something went wrong"
             else:
-                user_manager.add_users(room_data)
                 await self.emit("gamespace", payload, room=room_data.room_id)
         else:
             payload["error"] = f"{room_data.room_id} room is Full "

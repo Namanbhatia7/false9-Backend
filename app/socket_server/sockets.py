@@ -4,7 +4,7 @@ from app.socket_server.auction_events import Auction
 # create a Socket.IO server
 sio = socketio.AsyncServer(
     async_mode='asgi',
-    cors_allowed_origins=["http://localhost:3001"],
+    cors_allowed_origins=["http://localhost:3001", "http://localhost:3000"],
     logger=True
 )
 

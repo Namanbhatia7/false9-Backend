@@ -16,7 +16,8 @@ class UserManager():
         )
 
     def get_users_in_room(self, room_id: str):
-        return len([user for user in self.user_list if user.room_id == room_id])
+        room_data_list = [user.json() for user in self.user_list if user.room_id == room_id]
+        return room_data_list
 
     @classmethod
     def remove_user_from_room(cls, user_id: str):
