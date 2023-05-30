@@ -1,0 +1,988 @@
+{
+    "players": [
+        {
+            "name": "MS Dhoni",
+            "country": "India",
+            "team": "Chennai Super Kings",
+            "age": 40,
+            "role": "Wicket Keeper",
+            "stats": {
+                "batting": {
+                    "matches": 209,
+                    "runs": 4669,
+                    "average": 40.99,
+                    "strike_rate": 136.75,
+                    "highest_score": 84,
+                    "centuries": 0,
+                    "fifties": 23,
+                    "sixes": 216,
+                    "fours": 299
+                },
+                "fielding": {
+                    "catches": 109,
+                    "stumpings": 39
+                },
+                "bowling": {
+                    "matches": 209,
+                    "wickets": 0,
+                    "maidens": 0,
+                    "average": 0,
+                    "strike_rate": 0,
+                    "economy": 0,
+                    "best_bowling": "",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 95.6
+        },
+        {
+            "name": "Faf du Plessis",
+            "country": "South Africa",
+            "team": "Chennai Super Kings",
+            "age": 37,
+            "role": "Batsman",
+            "stats": {
+                "batting": {
+                    "matches": 97,
+                    "runs": 2681,
+                    "average": 32.93,
+                    "strike_rate": 132.95,
+                    "highest_score": 96,
+                    "centuries": 0,
+                    "fifties": 19,
+                    "sixes": 90,
+                    "fours": 246
+                },
+                "fielding": {
+                    "catches": 35,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 97,
+                    "wickets": 1,
+                    "maidens": 0,
+                    "average": 6.0,
+                    "strike_rate": 6.0,
+                    "economy": 4.0,
+                    "best_bowling": "1/4",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 89.2
+        },
+        {
+            "name": "Ruturaj Gaikwad",
+            "country": "India",
+            "team": "Chennai Super Kings",
+            "age": 24,
+            "role": "Batsman",
+            "stats": {
+                "batting": {
+                    "matches": 13,
+                    "runs": 523,
+                    "average": 43.58,
+                    "strike_rate": 128.02,
+                    "highest_score": 88,
+                    "centuries": 0,
+                    "fifties": 6,
+                    "sixes": 20,
+                    "fours": 57
+                },
+                "fielding": {
+                    "catches": 2,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 13,
+                    "wickets": 0,
+                    "maidens": 0,
+                    "average": 0,
+                    "strike_rate": 0,
+                    "economy": 0,
+                    "best_bowling": "",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 87.9
+        },
+        {
+            "name": "Suresh Raina",
+            "country": "India",
+            "team": "Chennai Super Kings",
+            "age": 35,
+            "role": "Batsman",
+            "stats": {
+                "batting": {
+                    "matches": 200,
+                    "runs": 5368,
+                    "average": 33.34,
+                    "strike_rate": 137.14,
+                    "highest_score": 100,
+                    "centuries": 1,
+                    "fifties": 38,
+                    "sixes": 195,
+                    "fours": 493
+                },
+                "fielding": {
+                    "catches": 102,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 173,
+                    "wickets": 25,
+                    "maidens": 0,
+                    "average": 39.08,
+                    "strike_rate": 32.04,
+                    "economy": 7.57,
+                    "best_bowling": "2/1",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 86.5
+        },
+        {
+            "name": "Ambati Rayudu",
+            "country": "India",
+            "age": 36,
+            "role": "Batsman",
+            "stats": {
+                "batting": {
+                    "matches": 159,
+                    "runs": 3658,
+                    "average": 28.62,
+                    "strike_rate": 128.77,
+                    "highest_score": 100,
+                    "centuries": 1,
+                    "fifties": 19,
+                    "sixes": 120,
+                    "fours": 299
+                },
+                "fielding": {
+                    "catches": 43,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 70,
+                    "wickets": 3,
+                    "maidens": 0,
+                    "average": 51.66,
+                    "strike_rate": 31.0,
+                    "economy": 9.13,
+                    "best_bowling": "1/0",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 85.3
+        },
+        {
+            "name": "Robin Uthappa",
+            "country": "India",
+            "age": 35,
+            "role": "Batsman",
+            "stats": {
+                "batting": {
+                    "matches": 189,
+                    "runs": 4607,
+                    "average": 28.83,
+                    "strike_rate": 132.58,
+                    "highest_score": 87,
+                    "centuries": 0,
+                    "fifties": 24,
+                    "sixes": 156,
+                    "fours": 415
+                },
+                "fielding": {
+                    "catches": 49,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 2,
+                    "wickets": 0,
+                    "maidens": 0,
+                    "average": 0,
+                    "strike_rate": 0,
+                    "economy": 0,
+                    "best_bowling": "",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 84.6
+        },
+        {
+            "name": "Ravindra Jadeja",
+            "country": "India",
+            "age": 33,
+            "role": "All-Rounder",
+            "stats": {
+                "batting": {
+                    "matches": 191,
+                    "runs": 2148,
+                    "average": 28.25,
+                    "strike_rate": 127.81,
+                    "highest_score": 62,
+                    "centuries": 0,
+                    "fifties": 12,
+                    "sixes": 98,
+                    "fours": 143
+                },
+                "fielding": {
+                    "catches": 74,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 191,
+                    "wickets": 116,
+                    "maidens": 2,
+                    "average": 30.07,
+                    "strike_rate": 24.12,
+                    "economy": 7.55,
+                    "best_bowling": "5/16",
+                    "four_wickets": 1,
+                    "five_wickets": 1
+                }
+            },
+            "score": 84.0
+        },
+        {
+            "name": "Dwayne Bravo",
+            "country": "West Indies",
+            "age": 38,
+            "role": "All-Rounder",
+            "stats": {
+                "batting": {
+                    "matches": 140,
+                    "runs": 1498,
+                    "average": 23.43,
+                    "strike_rate": 128.99,
+                    "highest_score": 70,
+                    "centuries": 0,
+                    "fifties": 6,
+                    "sixes": 117,
+                    "fours": 92
+                },
+                "fielding": {
+                    "catches": 82,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 164,
+                    "wickets": 179,
+                    "maidens": 0,
+                    "average": 24.61,
+                    "strike_rate": 19.45,
+                    "economy": 8.34,
+                    "best_bowling": "4/22",
+                    "four_wickets": 1,
+                    "five_wickets": 0
+                }
+            },
+            "score": 83.5
+        },
+        {
+            "name": "Josh Hazlewood",
+            "country": "Australia",
+            "age": 31,
+            "role": "Bowler",
+            "stats": {
+                "batting": {
+                    "matches": 3,
+                    "runs": 9,
+                    "average": 9.0,
+                    "strike_rate": 69.23,
+                    "highest_score": 6,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 0,
+                    "fours": 1
+                },
+                "fielding": {
+                    "catches": 2,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 11,
+                    "wickets": 14,
+                    "maidens": 0,
+                    "average": 19.92,
+                    "strike_rate": 18.92,
+                    "economy": 6.77,
+                    "best_bowling": "3/11",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 83.0
+        },
+        {
+            "name": "Sam Curran",
+            "country": "England",
+            "age": 23,
+            "role": "All-Rounder",
+            "stats": {
+                "batting": {
+                    "matches": 30,
+                    "runs": 806,
+                    "average": 29.85,
+                    "strike_rate": 136.72,
+                    "highest_score": 95,
+                    "centuries": 0,
+                    "fifties": 4,
+                    "sixes": 33,
+                    "fours": 71
+                },
+                "fielding": {
+                    "catches": 9,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 30,
+                    "wickets": 34,
+                    "maidens": 0,
+                    "average": 26.85,
+                    "strike_rate": 17.76,
+                    "economy": 8.22,
+                    "best_bowling": "3/18",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 82.5
+        },
+        {
+            "name": "Moeen Ali",
+            "country": "England",
+            "age": 34,
+            "role": "All-Rounder",
+            "stats": {
+                "batting": {
+                    "matches": 36,
+                    "runs": 840,
+                    "average": 27.09,
+                    "strike_rate": 142.25,
+                    "highest_score": 66,
+                    "centuries": 0,
+                    "fifties": 6,
+                    "sixes": 61,
+                    "fours": 61
+                },
+                "fielding": {
+                    "catches": 8,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 36,
+                    "wickets": 13,
+                    "maidens": 0,
+                    "average": 31.92,
+                    "strike_rate": 23.84,
+                    "economy": 7.76,
+                    "best_bowling": "3/7",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 82.0
+        },
+        {
+            "name": "Deepak Chahar",
+            "country": "India",
+            "age": 29,
+            "role": "Bowler",
+            "stats": {
+                "batting": {
+                    "matches": 52,
+                    "runs": 160,
+                    "average": 10.66,
+                    "strike_rate": 98.14,
+                    "highest_score": 39,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 7,
+                    "fours": 15
+                },
+                "fielding": {
+                    "catches": 19,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 52,
+                    "wickets": 64,
+                    "maidens": 1,
+                    "average": 27.64,
+                    "strike_rate": 19.25,
+                    "economy": 7.47,
+                    "best_bowling": "4/13",
+                    "four_wickets": 1,
+                    "five_wickets": 0
+                }
+            },
+            "score": 81.5
+        },
+        {
+            "name": "Shardul Thakur",
+            "country": "India",
+            "age": 30,
+            "role": "Bowler",
+            "stats": {
+                "batting": {
+                    "matches": 56,
+                    "runs": 174,
+                    "average": 10.23,
+                    "strike_rate": 116.21,
+                    "highest_score": 22,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 5,
+                    "fours": 15
+                },
+                "fielding": {
+                    "catches": 12,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 56,
+                    "wickets": 56,
+                    "maidens": 0,
+                    "average": 28.75,
+                    "strike_rate": 21.96,
+                    "economy": 8.93,
+                    "best_bowling": "3/19",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 81.0
+        },
+        {
+            "name": "Imran Tahir",
+            "country": "South Africa",
+            "age": 42,
+            "role": "Bowler",
+            "stats": {
+                "batting": {
+                    "matches": 57,
+                    "runs": 55,
+                    "average": 13.75,
+                    "strike_rate": 104.71,
+                    "highest_score": 17,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 3,
+                    "fours": 4
+                },
+                "fielding": {
+                    "catches": 20,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 57,
+                    "wickets": 80,
+                    "maidens": 2,
+                    "average": 22.44,
+                    "strike_rate": 16.73,
+                    "economy": 7.84,
+                    "best_bowling": "4/12",
+                    "four_wickets": 1,
+                    "five_wickets": 0
+                }
+            },
+            "score": 80.5
+        },
+        {
+            "name": "Lungi Ngidi",
+            "country": "South Africa",
+            "age": 25,
+            "role": "Bowler",
+            "stats": {
+                "batting": {
+                    "matches": 13,
+                    "runs": 14,
+                    "average": 14.0,
+                    "strike_rate": 116.66,
+                    "highest_score": 9,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 1,
+                    "fours": 1
+                },
+                "fielding": {
+                    "catches": 5,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 19,
+                    "wickets": 26,
+                    "maidens": 0,
+                    "average": 26.34,
+                    "strike_rate": 19.8,
+                    "economy": 8.16,
+                    "best_bowling": "4/14",
+                    "four_wickets": 1,
+                    "five_wickets": 0
+                }
+            },
+            "score": 80.0
+        },
+        {
+            "name": "Mitchell Santner",
+            "country": "New Zealand",
+            "age": 29,
+            "role": "All-Rounder",
+            "stats": {
+                "batting": {
+                    "matches": 17,
+                    "runs": 111,
+                    "average": 11.1,
+                    "strike_rate": 114.43,
+                    "highest_score": 22,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 6,
+                    "fours": 9
+                },
+                "fielding": {
+                    "catches": 5,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 17,
+                    "wickets": 13,
+                    "maidens": 0,
+                    "average": 30.15,
+                    "strike_rate": 25.38,
+                    "economy": 7.96,
+                    "best_bowling": "2/13",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 79.5
+        },
+        {
+            "name": "Ruturaj Gaikwad",
+            "country": "India",
+            "age": 24,
+            "role": "Batsman",
+            "stats": {
+                "batting": {
+                    "matches": 24,
+                    "runs": 715,
+                    "average": 31.08,
+                    "strike_rate": 126.53,
+                    "highest_score": 88,
+                    "centuries": 0,
+                    "fifties": 7,
+                    "sixes": 34,
+                    "fours": 75
+                },
+                "fielding": {
+                    "catches": 8,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 24,
+                    "wickets": 0,
+                    "maidens": 0,
+                    "average": 0.0,
+                    "strike_rate": 0.0,
+                    "economy": 0.0,
+                    "best_bowling": "",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 79.0
+        },
+        {
+            "name": "KM Asif",
+            "country": "India",
+            "age": 27,
+            "role": "Bowler",
+            "stats": {
+                "batting": {
+                    "matches": 2,
+                    "runs": 1,
+                    "average": 1.0,
+                    "strike_rate": 100.0,
+                    "highest_score": 1,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 0,
+                    "fours": 0
+                },
+                "fielding": {
+                    "catches": 1,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 5,
+                    "wickets": 1,
+                    "maidens": 0,
+                    "average": 72.0,
+                    "strike_rate": 60.0,
+                    "economy": 10.85,
+                    "best_bowling": "1/16",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 78.5
+        },
+        {
+            "name": "R Sai Kishore",
+            "country": "India",
+            "age": 25,
+            "role": "Bowler",
+            "stats": {
+                "batting": {
+                    "matches": 1,
+                    "runs": 1,
+                    "average": 1.0,
+                    "strike_rate": 50.0,
+                    "highest_score": 1,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 0,
+                    "fours": 0
+                },
+                "fielding": {
+                    "catches": 0,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 1,
+                    "wickets": 1,
+                    "maidens": 0,
+                    "average": 39.0,
+                    "strike_rate": 36.0,
+                    "economy": 9.75,
+                    "best_bowling": "1/39",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 78.0
+        },
+        {
+            "name": "Cheteshwar Pujara",
+            "country": "India",
+            "age": 34,
+            "role": "Batsman",
+            "stats": {
+                "batting": {
+                    "matches": 30,
+                    "runs": 576,
+                    "average": 22.15,
+                    "strike_rate": 100.69,
+                    "highest_score": 67,
+                    "centuries": 0,
+                    "fifties": 3,
+                    "sixes": 10,
+                    "fours": 53
+                },
+                "fielding": {
+                    "catches": 13,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 30,
+                    "wickets": 0,
+                    "maidens": 0,
+                    "average": 0.0,
+                    "strike_rate": 0.0,
+                    "economy": 0.0,
+                    "best_bowling": "",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 77.5
+        },
+        {
+            "name": "Harbhajan Singh",
+            "country": "India",
+            "age": 41,
+            "role": "Bowler",
+            "stats": {
+                "batting": {
+                    "matches": 160,
+                    "runs": 803,
+                    "average": 13.01,
+                    "strike_rate": 128.42,
+                    "highest_score": 64,
+                    "centuries": 0,
+                    "fifties": 1,
+                    "sixes": 33,
+                    "fours": 61
+                },
+                "fielding": {
+                    "catches": 30,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 160,
+                    "wickets": 157,
+                    "maidens": 3,
+                    "average": 26.14,
+                    "strike_rate": 19.36,
+                    "economy": 7.05,
+                    "best_bowling": "5/18",
+                    "four_wickets": 1,
+                    "five_wickets": 1
+                }
+            },
+            "score": 77.0
+        },
+        {
+            "name": "Dwayne Bravo",
+            "country": "West Indies",
+            "age": 38,
+            "role": "All-Rounder",
+            "stats": {
+                "batting": {
+                    "matches": 117,
+                    "runs": 1483,
+                    "average": 23.95,
+                    "strike_rate": 128.36,
+                    "highest_score": 70,
+                    "centuries": 0,
+                    "fifties": 4,
+                    "sixes": 109,
+                    "fours": 82
+                },
+                "fielding": {
+                    "catches": 54,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 164,
+                    "wickets": 179,
+                    "maidens": 3,
+                    "average": 24.71,
+                    "strike_rate": 20.73,
+                    "economy": 8.33,
+                    "best_bowling": "4/22",
+                    "four_wickets": 1,
+                    "five_wickets": 0
+                }
+            },
+            "score": 76.5
+        },
+        {
+            "name": "Bhagath Varma",
+            "country": "India",
+            "age": 22,
+            "role": "All-Rounder",
+            "stats": {
+                "batting": {
+                    "matches": 1,
+                    "runs": 6,
+                    "average": 6.0,
+                    "strike_rate": 100.0,
+                    "highest_score": 6,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 0,
+                    "fours": 0
+                },
+                "fielding": {
+                    "catches": 0,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 1,
+                    "wickets": 1,
+                    "maidens": 0,
+                    "average": 1.0,
+                    "strike_rate": 6.0,
+                    "economy": 6.0,
+                    "best_bowling": "1/6",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 76.0
+        },
+        {
+            "name": "C Hari Nishanth",
+            "country": "India",
+            "age": 24,
+            "role": "Batsman",
+            "stats": {
+                "batting": {
+                    "matches": 1,
+                    "runs": 13,
+                    "average": 13.0,
+                    "strike_rate": 92.85,
+                    "highest_score": 13,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 0,
+                    "fours": 2
+                },
+                "fielding": {
+                    "catches": 0,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 1,
+                    "wickets": 0,
+                    "maidens": 0,
+                    "average": 0.0,
+                    "strike_rate": 0.0,
+                    "economy": 0.0,
+                    "best_bowling": "",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 75.5
+        },
+        {
+            "name": "Rajat Patidar",
+            "country": "India",
+            "age": 27,
+            "role": "Batsman",
+            "stats": {
+                "batting": {
+                    "matches": 2,
+                    "runs": 71,
+                    "average": 35.5,
+                    "strike_rate": 145.91,
+                    "highest_score": 31,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 3,
+                    "fours": 6
+                },
+                "fielding": {
+                    "catches": 0,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 2,
+                    "wickets": 0,
+                    "maidens": 0,
+                    "average": 0.0,
+                    "strike_rate": 0.0,
+                    "economy": 0.0,
+                    "best_bowling": "",
+                    "four_wickets": 0,
+                    "five_wickets": 0
+                }
+            },
+            "score": 75.0
+        },
+        {
+            "name": "Mitchell Santner",
+            "country": "New Zealand",
+            "age": 30,
+            "role": "All-Rounder",
+            "stats": {
+                "batting": {
+                    "matches": 16,
+                    "runs": 139,
+                    "average": 15.44,
+                    "strike_rate": 126.36,
+                    "highest_score": 22,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 9,
+                    "fours": 5
+                },
+                "fielding": {
+                    "catches": 7,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 16,
+                    "wickets": 17,
+                    "maidens": 0,
+                    "average": 22.64,
+                    "strike_rate": 17.76,
+                    "economy": 7.52,
+                    "best_bowling": "4/11",
+                    "four_wickets": 1,
+                    "five_wickets": 0
+                }
+            },
+            "score": 74.5
+        },
+        {
+            "name": "Lungi Ngidi",
+            "country": "South Africa",
+            "age": 25,
+            "role": "Bowler",
+            "stats": {
+                "batting": {
+                    "matches": 14,
+                    "runs": 11,
+                    "average": 5.5,
+                    "strike_rate": 122.22,
+                    "highest_score": 7,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 1,
+                    "fours": 0
+                },
+                "fielding": {
+                    "catches": 3,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 14,
+                    "wickets": 21,
+                    "maidens": 0,
+                    "average": 20.0,
+                    "strike_rate": 16.52,
+                    "economy": 8.3,
+                    "best_bowling": "4/14",
+                    "four_wickets": 1,
+                    "five_wickets": 0
+                }
+            },
+            "score": 74.0
+        },
+        {
+            "name": "Deepak Chahar",
+            "country": "India",
+            "age": 29,
+            "role": "Bowler",
+            "stats": {
+                "batting": {
+                    "matches": 55,
+                    "runs": 99,
+                    "average": 8.25,
+                    "strike_rate": 118.07,
+                    "highest_score": 39,
+                    "centuries": 0,
+                    "fifties": 0,
+                    "sixes": 6,
+                    "fours": 8
+                },
+                "fielding": {
+                    "catches": 11,
+                    "stumpings": 0
+                },
+                "bowling": {
+                    "matches": 55,
+                    "wickets": 64,
+                    "maidens": 0,
+                    "average": 29.87,
+                    "strike_rate": 21.93,
+                    "economy": 7.71,
+                    "best_bowling": "4/13",
+                    "four_wickets": 2,
+                    "five_wickets": 0
+                }
+            },
+            "score": 73.5
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+	"players": [
+		{
+			"name": "Rohit Sharma",
+			"country": "India",
+			"age": 34,
+			"role": "Batsman",
+			"ipl_team": "Mumbai Indians",
+			"stats": {
+				"batting": {
+					"matches": 200,
+					"runs": 5230,
+					"average": 31.13,
+					"strike_rate": 130.61,
+					"highest_score": 109,
+					"centuries": 1,
+					"fifties": 39,
+					"sixes": 213,
+					"fours": 465
+				},
+				"fielding": {
+					"catches": 83,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 41,
+					"wickets": 15,
+					"maidens": 0,
+					"average": 31.13,
+					"strike_rate": 32.4,
+					"economy": 7.92,
+					"best_bowling": "4/6",
+					"four_wickets": 1,
+					"five_wickets": 0
+				}
+			},
+			"score": 92.5
+		},
+		{
+			"name": "Quinton de Kock",
+			"country": "South Africa",
+			"age": 28,
+			"role": "Batsman/Wicketkeeper",
+			"ipl_team": "Mumbai Indians",
+			"stats": {
+				"batting": {
+					"matches": 70,
+					"runs": 1952,
+					"average": 33.79,
+					"strike_rate": 134,
+					"highest_score": 108,
+					"centuries": 2,
+					"fifties": 14,
+					"sixes": 51,
+					"fours": 197
+				},
+				"fielding": {
+					"catches": 49,
+					"stumpings": 3
+				},
+				"bowling": {
+					"matches": 70,
+					"wickets": 0,
+					"maidens": 0,
+					"average": 0,
+					"strike_rate": 0,
+					"economy": 0,
+					"best_bowling": "0/0",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 89
+		},
+		{
+			"name": "Suryakumar Yadav",
+			"country": "India",
+			"age": 31,
+			"role": "Batsman",
+			"ipl_team": "Mumbai Indians",
+			"stats": {
+				"batting": {
+					"matches": 101,
+					"runs": 2334,
+					"average": 31.12,
+					"strike_rate": 135.72,
+					"highest_score": 79,
+					"centuries": 0,
+					"fifties": 15,
+					"sixes": 77,
+					"fours": 208
+				},
+				"fielding": {
+					"catches": 31,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 101,
+					"wickets": 2,
+					"maidens": 0,
+					"average": 69,
+					"strike_rate": 42,
+					"economy": 9,
+					"best_bowling": "1/9",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 87.5
+		},
+		{
+			"name": "Ishan Kishan",
+			"country": "India",
+			"age": 23,
+			"role": "Batsman/Wicketkeeper",
+			"ipl_team": "Mumbai Indians",
+			"stats": {
+				"batting": {
+					"matches": 51,
+					"runs": 1211,
+					"average": 28.83,
+					"strike_rate": 134.38,
+					"highest_score": 99,
+					"centuries": 0,
+					"fifties": 8,
+					"sixes": 83,
+					"fours": 105
+				},
+				"fielding": {
+					"catches": 19,
+					"stumpings": 5
+				},
+				"bowling": {
+					"matches": 51,
+					"wickets": 0,
+					"maidens": 0,
+					"average": 0,
+					"strike_rate": 0,
+					"economy": 0,
+					"best_bowling": "0/0",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 84.2
+		},
+		{
+			"name": "Chris Lynn",
+			"country": "Australia",
+			"age": 31,
+			"role": "Batsman",
+			"ipl_team": "Mumbai Indians",
+			"stats": {
+				"batting": {
+					"matches": 41,
+					"runs": 1280,
+					"average": 33.68,
+					"strike_rate": 140.12,
+					"highest_score": 92,
+					"centuries": 0,
+					"fifties": 9,
+					"sixes": 105,
+					"fours": 108
+				},
+				"fielding": {
+					"catches": 13,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 41,
+					"wickets": 0,
+					"maidens": 0,
+					"average": 0,
+					"strike_rate": 0,
+					"economy": 0,
+					"best_bowling": "0/0",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 82.7
+		},
+		{
+			"name": "Hardik Pandya",
+			"country": "India",
+			"age": 27,
+			"role": "All-Rounder",
+			"ipl_team": "Mumbai Indians",
+			"stats": {
+				"batting": {
+					"matches": 81,
+					"runs": 1349,
+					"average": 33.72,
+					"strike_rate": 158.41,
+					"highest_score": 91,
+					"centuries": 0,
+					"fifties": 4,
+					"sixes": 83,
+					"fours": 83
+				},
+				"fielding": {
+					"catches": 35,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 81,
+					"wickets": 42,
+					"maidens": 0,
+					"average": 32.02,
+					"strike_rate": 18.83,
+					"economy": 9.04,
+					"best_bowling": "3/20",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 91.8
+		},
+		{
+			"name": "Kieron Pollard",
+			"country": "West Indies",
+			"age": 34,
+			"role": "All-Rounder",
+			"ipl_team": "Mumbai Indians",
+			"stats": {
+				"batting": {
+					"matches": 174,
+					"runs": 3023,
+					"average": 30.88,
+					"strike_rate": 150.87,
+					"highest_score": 87,
+					"centuries": 0,
+					"fifties": 15,
+					"sixes": 214,
+					"fours": 201
+				},
+				"fielding": {
+					"catches": 61,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 174,
+					"wickets": 63,
+					"maidens": 0,
+					"average": 33.49,
+					"strike_rate": 24.67,
+					"economy": 8.73,
+					"best_bowling": "4/44",
+					"four_wickets": 1,
+					"five_wickets": 0
+				}
+			},
+			"score": 90.6
+		},
+		{
+			"name": "Krunal Pandya",
+			"country": "India",
+			"age": 30,
+			"role": "All-Rounder",
+			"ipl_team": "Mumbai Indians",
+			"stats": {
+				"batting": {
+					"matches": 71,
+					"runs": 1088,
+					"average": 22.67,
+					"strike_rate": 137.23,
+					"highest_score": 86,
+					"centuries": 0,
+					"fifties": 4,
+					"sixes": 47,
+					"fours": 72
+				},
+				"fielding": {
+					"catches": 30,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 71,
+					"wickets": 40,
+					"maidens": 0,
+					"average": 29.02,
+					"strike_rate": 24.7,
+					"economy": 7.31,
+					"best_bowling": "3/14",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 87.2
+		},
+		{
+			"name": "Jayant Yadav",
+			"country": "India",
+			"age": 31,
+			"role": "Bowler",
+			"ipl_team": "Mumbai Indians",
+			"stats": {
+				"batting": {
+					"matches": 11,
+					"runs": 65,
+					"average": 13,
+					"strike_rate": 123.58,
+					"highest_score": 23,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 2,
+					"fours": 5
+				},
+				"fielding": {
+					"catches": 4,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 14,
+					"wickets": 11,
+					"maidens": 0,
+					"average": 27.63,
+					"strike_rate": 21.45,
+					"economy": 7.3,
+					"best_bowling": "4/23",
+					"four_wickets": 1,
+					"five_wickets": 0
+				}
+			},
+			"score": 85.4
+		},
+		{
+			"name": "Nathan Coulter-Nile",
+			"country": "Australia",
+			"age": 34,
+			"role": "Bowler",
+			"ipl_team": "Mumbai Indians",
+			"stats": {
+				"batting": {
+					"matches": 33,
+					"runs": 146,
+					"average": 16.22,
+					"strike_rate": 116.8,
+					"highest_score": 24,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 5,
+					"fours": 11
+				},
+				"fielding": {
+					"catches": 4,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 33,
+					"wickets": 41,
+					"maidens": 0,
+					"average": 26.36,
+					"strike_rate": 17.68,
+					"economy": 7.92,
+					"best_bowling": "4/20",
+					"four_wickets": 2,
+					"five_wickets": 0
+				}
+			},
+			"score": 84.7
+		}
+	]
+}

@@ -1,0 +1,652 @@
+{
+	"players": [
+		{
+			"name": "Virat Kohli",
+			"country": "India",
+			"age": 33,
+			"role": "Batsman",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 199,
+					"runs": 6076,
+					"average": 37.97,
+					"strike_rate": 130.73,
+					"highest_score": 113,
+					"centuries": 5,
+					"fifties": 41,
+					"sixes": 204,
+					"fours": 524
+				},
+				"fielding": {
+					"catches": 84,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 199,
+					"wickets": 4,
+					"maidens": 0,
+					"average": 166.25,
+					"strike_rate": 89.5,
+					"economy": 9.25,
+					"best_bowling": "1/4",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 87.5
+		},
+		{
+			"name": "AB de Villiers",
+			"country": "South Africa",
+			"age": 37,
+			"role": "Batsman",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 169,
+					"runs": 5056,
+					"average": 40.77,
+					"strike_rate": 151.91,
+					"highest_score": 133,
+					"centuries": 3,
+					"fifties": 40,
+					"sixes": 245,
+					"fours": 375
+				},
+				"fielding": {
+					"catches": 87,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 169,
+					"wickets": 1,
+					"maidens": 0,
+					"average": 23,
+					"strike_rate": 18,
+					"economy": 13,
+					"best_bowling": "1/3",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 87
+		},
+		{
+			"name": "Yuzvendra Chahal",
+			"country": "India",
+			"age": 31,
+			"role": "Bowler",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 99,
+					"runs": 19,
+					"average": 3.8,
+					"strike_rate": 54.28,
+					"highest_score": 7,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 1,
+					"fours": 1
+				},
+				"fielding": {
+					"catches": 16,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 99,
+					"wickets": 125,
+					"maidens": 1,
+					"average": 22.99,
+					"strike_rate": 17.82,
+					"economy": 7.67,
+					"best_bowling": "4/25",
+					"four_wickets": 2,
+					"five_wickets": 0
+				}
+			},
+			"score": 86.5
+		},
+		{
+			"name": "Glenn Maxwell",
+			"country": "Australia",
+			"age": 33,
+			"role": "All-Rounder",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 83,
+					"runs": 1505,
+					"average": 22.13,
+					"strike_rate": 154.67,
+					"highest_score": 95,
+					"centuries": 0,
+					"fifties": 6,
+					"sixes": 107,
+					"fours": 100
+				},
+				"fielding": {
+					"catches": 43,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 83,
+					"wickets": 19,
+					"maidens": 0,
+					"average": 50.89,
+					"strike_rate": 33.79,
+					"economy": 8.51,
+					"best_bowling": "2/15",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 82.5
+		},
+		{
+			"name": "Devdutt Padikkal",
+			"country": "India",
+			"age": 21,
+			"role": "Batsman",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 21,
+					"runs": 737,
+					"average": 35.09,
+					"strike_rate": 145.22,
+					"highest_score": 101,
+					"centuries": 1,
+					"fifties": 6,
+					"sixes": 21,
+					"fours": 72
+				},
+				"fielding": {
+					"catches": 9,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 21,
+					"wickets": 1,
+					"maidens": 0,
+					"average": 62,
+					"strike_rate": 48,
+					"economy": 8.16,
+					"best_bowling": "1/17",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 82
+		},
+		{
+			"name": "Washington Sundar",
+			"country": "India",
+			"age": 21,
+			"role": "All-Rounder",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 42,
+					"runs": 395,
+					"average": 15.8,
+					"strike_rate": 128.6,
+					"highest_score": 50,
+					"centuries": 0,
+					"fifties": 1,
+					"sixes": 17,
+					"fours": 23
+				},
+				"fielding": {
+					"catches": 13,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 42,
+					"wickets": 26,
+					"maidens": 0,
+					"average": 30.5,
+					"strike_rate": 26.46,
+					"economy": 7.9,
+					"best_bowling": "3/16",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 81
+		},
+		{
+			"name": "Mohammed Siraj",
+			"country": "India",
+			"age": 27,
+			"role": "Bowler",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 42,
+					"runs": 25,
+					"average": 4.17,
+					"strike_rate": 75.75,
+					"highest_score": 13,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 0,
+					"fours": 3
+				},
+				"fielding": {
+					"catches": 13,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 42,
+					"wickets": 39,
+					"maidens": 1,
+					"average": 30.35,
+					"strike_rate": 23.82,
+					"economy": 8.25,
+					"best_bowling": "4/32",
+					"four_wickets": 1,
+					"five_wickets": 0
+				}
+			},
+			"score": 80.5
+		},
+		{
+			"name": "Kyle Jamieson",
+			"country": "New Zealand",
+			"age": 26,
+			"role": "All-Rounder",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 9,
+					"runs": 59,
+					"average": 19.67,
+					"strike_rate": 148.75,
+					"highest_score": 16,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 6,
+					"fours": 3
+				},
+				"fielding": {
+					"catches": 2,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 9,
+					"wickets": 9,
+					"maidens": 0,
+					"average": 21.22,
+					"strike_rate": 13.33,
+					"economy": 9.32,
+					"best_bowling": "3/41",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 80
+		},
+		{
+			"name": "Dan Christian",
+			"country": "Australia",
+			"age": 38,
+			"role": "All-Rounder",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 40,
+					"runs": 446,
+					"average": 21.24,
+					"strike_rate": 123.88,
+					"highest_score": 39,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 27,
+					"fours": 23
+				},
+				"fielding": {
+					"catches": 23,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 40,
+					"wickets": 37,
+					"maidens": 0,
+					"average": 33.13,
+					"strike_rate": 25.84,
+					"economy": 8.84,
+					"best_bowling": "3/14",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 79.5
+		},
+		{
+			"name": "Harshal Patel",
+			"country": "India",
+			"age": 30,
+			"role": "Bowler",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 49,
+					"runs": 292,
+					"average": 14.6,
+					"strike_rate": 128.77,
+					"highest_score": 43,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 24,
+					"fours": 18
+				},
+				"fielding": {
+					"catches": 14,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 49,
+					"wickets": 58,
+					"maidens": 0,
+					"average": 23.27,
+					"strike_rate": 16.71,
+					"economy": 9.17,
+					"best_bowling": "5/27",
+					"four_wickets": 1,
+					"five_wickets": 1
+				}
+			},
+			"score": 79
+		},
+		{
+			"name": "Rajat Patidar",
+			"country": "India",
+			"age": 27,
+			"role": "Batsman",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 5,
+					"runs": 71,
+					"average": 17.75,
+					"strike_rate": 123.28,
+					"highest_score": 31,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 4,
+					"fours": 8
+				},
+				"fielding": {
+					"catches": 2,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 5,
+					"wickets": 0,
+					"maidens": 0,
+					"average": 0,
+					"strike_rate": 0,
+					"economy": 0,
+					"best_bowling": "0/0",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 78.5
+		},
+		{
+			"name": "KS Bharat",
+			"country": "India",
+			"age": 28,
+			"role": "Wicketkeeper",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 3,
+					"runs": 8,
+					"average": 4,
+					"strike_rate": 80,
+					"highest_score": 5,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 0,
+					"fours": 1
+				},
+				"fielding": {
+					"catches": 2,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 3,
+					"wickets": 0,
+					"maidens": 0,
+					"average": 0,
+					"strike_rate": 0,
+					"economy": 0,
+					"best_bowling": "0/0",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 78
+		},
+		{
+			"name": "Sachin Baby",
+			"country": "India",
+			"age": 33,
+			"role": "Batsman",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 22,
+					"runs": 171,
+					"average": 14.25,
+					"strike_rate": 104.27,
+					"highest_score": 33,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 4,
+					"fours": 13
+				},
+				"fielding": {
+					"catches": 8,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 22,
+					"wickets": 0,
+					"maidens": 0,
+					"average": 0,
+					"strike_rate": 0,
+					"economy": 0,
+					"best_bowling": "0/0",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 77.5
+		},
+		{
+			"name": "Adam Zampa",
+			"country": "Australia",
+			"age": 29,
+			"role": "Bowler",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 22,
+					"runs": 44,
+					"average": 7.33,
+					"strike_rate": 119.72,
+					"highest_score": 19,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 2,
+					"fours": 4
+				},
+				"fielding": {
+					"catches": 3,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 22,
+					"wickets": 21,
+					"maidens": 0,
+					"average": 25.33,
+					"strike_rate": 17.1,
+					"economy": 7.56,
+					"best_bowling": "5/14",
+					"four_wickets": 1,
+					"five_wickets": 1
+				}
+			},
+			"score": 77
+		},
+		{
+			"name": "Mohammed Azharuddeen",
+			"country": "India",
+			"age": 27,
+			"role": "Batsman",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 2,
+					"runs": 9,
+					"average": 9,
+					"strike_rate": 112.5,
+					"highest_score": 9,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 1,
+					"fours": 1
+				},
+				"fielding": {
+					"catches": 1,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 2,
+					"wickets": 0,
+					"maidens": 0,
+					"average": 0,
+					"strike_rate": 0,
+					"economy": 0,
+					"best_bowling": "0/0",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 77
+		},
+		{
+			"name": "Suyash Prabhudessai",
+			"country": "India",
+			"age": 24,
+			"role": "Batsman",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 2,
+					"runs": 8,
+					"average": 8,
+					"strike_rate": 133.33,
+					"highest_score": 8,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 0,
+					"fours": 1
+				},
+				"fielding": {
+					"catches": 0,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 2,
+					"wickets": 0,
+					"maidens": 0,
+					"average": 0,
+					"strike_rate": 0,
+					"economy": 0,
+					"best_bowling": "0/0",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 76.5
+		},
+		{
+			"name": "Shahbaz Ahmed",
+			"country": "India",
+			"age": 26,
+			"role": "All-rounder",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 10,
+					"runs": 49,
+					"average": 12.25,
+					"strike_rate": 136.11,
+					"highest_score": 14,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 2,
+					"fours": 4
+				},
+				"fielding": {
+					"catches": 2,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 10,
+					"wickets": 6,
+					"maidens": 0,
+					"average": 25.83,
+					"strike_rate": 20,
+					"economy": 7.29,
+					"best_bowling": "3/7",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 82.5
+		},
+		{
+			"name": "Pavan Deshpande",
+			"country": "India",
+			"age": 31,
+			"role": "Batsman",
+			"ipl_team": "Royal Challengers Bangalore",
+			"stats": {
+				"batting": {
+					"matches": 4,
+					"runs": 34,
+					"average": 11.33,
+					"strike_rate": 113.33,
+					"highest_score": 10,
+					"centuries": 0,
+					"fifties": 0,
+					"sixes": 0,
+					"fours": 3
+				},
+				"fielding": {
+					"catches": 0,
+					"stumpings": 0
+				},
+				"bowling": {
+					"matches": 4,
+					"wickets": 0,
+					"maidens": 0,
+					"average": 0,
+					"strike_rate": 0,
+					"economy": 0,
+					"best_bowling": "0/0",
+					"four_wickets": 0,
+					"five_wickets": 0
+				}
+			},
+			"score": 78
+		}
+	]
+}

@@ -1,0 +1,346 @@
+{
+  "players": [
+    {
+      "name": "Virat Kohli",
+      "team": "Royal Challengers Bangalore",
+      "age": 33,
+      "role": "Batsman",
+      "stats": {
+        "matches": 196,
+        "runs": 6076,
+        "average": 37.97,
+        "strike_rate": 130.73,
+        "highest_score": 113,
+        "centuries": 5,
+        "fifties": 41
+      }
+    },
+    {
+      "name": "MS Dhoni",
+      "team": "Chennai Super Kings",
+      "age": 40,
+      "role": "Wicketkeeper-Batsman",
+      "stats": {
+        "matches": 204,
+        "runs": 4632,
+        "average": 40.99,
+        "strike_rate": 136.75,
+        "highest_score": 84,
+        "centuries": 0,
+        "fifties": 23
+      }
+    },
+    {
+      "name": "Rohit Sharma",
+      "team": "Mumbai Indians",
+      "age": 34,
+      "role": "Batsman",
+      "stats": {
+        "matches": 208,
+        "runs": 5480,
+        "average": 31.37,
+        "strike_rate": 130.61,
+        "highest_score": 109,
+        "centuries": 1,
+        "fifties": 39
+      }
+    },
+    {
+      "name": "AB de Villiers",
+      "team": "Royal Challengers Bangalore",
+      "age": 38,
+      "role": "Batsman",
+      "stats": {
+        "matches": 169,
+        "runs": 5056,
+        "average": 40.77,
+        "strike_rate": 151.91,
+        "highest_score": 133,
+        "centuries": 3,
+        "fifties": 40
+      }
+    },
+    {
+      "name": "Chris Gayle",
+      "team": "Punjab Kings",
+      "age": 42,
+      "role": "Batsman",
+      "stats": {
+        "matches": 139,
+        "runs": 4950,
+        "average": 40.24,
+        "strike_rate": 149.45,
+        "highest_score": 175,
+        "centuries": 6,
+        "fifties": 31
+      }
+    },
+    {
+      "name": "Suresh Raina",
+      "team": "Chennai Super Kings",
+      "age": 34,
+      "role": "Batsman",
+      "stats": {
+        "matches": 200,
+        "runs": 5368,
+        "average": 33.34,
+        "strike_rate": 137.14,
+        "highest_score": 100,
+        "centuries": 1,
+        "fifties": 38
+      }
+    },
+    {
+      "name": "David Warner",
+      "team": "Sunrisers Hyderabad",
+      "age": 35,
+      "role": "Batsman",
+      "stats": {
+        "matches": 142,
+        "runs": 5447,
+        "average": 42.22,
+        "strike_rate": 141.54,
+        "highest_score": 126,
+        "centuries": 4,
+        "fifties": 48
+      }
+    },
+    {
+      "name": "Sunil Narine",
+      "team": "Kolkata Knight Riders",
+      "age": 33,
+      "role": "All-rounder",
+      "stats": {
+        "matches": 125,
+        "runs": 892,
+        "average": 16.51,
+        "strike_rate": 134.52,
+        "highest_score": 75,
+        "centuries": 0,
+        "fifties": 4,
+        "wickets": 127,
+        "economy": 6.74,
+        "best_bowling": "5/19"
+      }
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "team": "Mumbai Indians",
+      "age": 28,
+      "role": "Bowler",
+      "stats": {
+        "matches": 99,
+        "wickets": 115,
+        "economy": 7.41,
+        "best_bowling": "4/14"
+      }
+    },
+    {
+      "name": "Andre Russell",
+      "team": "Kolkata Knight Riders",
+      "age": 33,
+      "role": "All-rounder",
+      "stats": {
+        "matches": 80,
+        "runs": 1537,
+        "average": 30.74,
+        "strike_rate": 183.68,
+        "highest_score": 88,
+        "centuries": 0,
+        "fifties": 5,
+        "wickets": 62,
+        "economy": 9.72,
+        "best_bowling": "4/20"
+      }
+    },
+    {
+      "name": "Shane Watson",
+      "team": "Chennai Super Kings",
+      "age": 40,
+      "role": "All-rounder",
+      "stats": {
+        "matches": 145,
+        "runs": 3874,
+        "average": 30.99,
+        "strike_rate": 137.91,
+        "highest_score": 117,
+        "centuries": 4,
+        "fifties": 19,
+        "wickets": 92,
+        "economy": 7.93,
+        "best_bowling": "4/29"
+      }
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "team": "Chennai Super Kings",
+      "age": 33,
+      "role": "All-rounder",
+      "stats": {
+        "matches": 190,
+        "runs": 2206,
+        "average": 29.41,
+        "strike_rate": 126.68,
+        "highest_score": 62,
+        "centuries": 0,
+        "fifties": 10,
+        "wickets": 116,
+        "economy": 7.56,
+        "best_bowling": "5/16"
+      }
+    },
+    {
+      "name": "Dwayne Bravo",
+      "team": "Chennai Super Kings",
+      "age": 38,
+      "role": "All-rounder",
+      "stats": {
+        "matches": 140,
+        "runs": 1549,
+        "average": 23.92,
+        "strike_rate": 128.51,
+        "highest_score": 70,
+        "centuries": 0,
+        "fifties": 4,
+        "wickets": 153,
+        "economy": 8.39,
+        "best_bowling": "4/22"
+      }
+    },
+    {
+      "name": "Yuvraj Singh",
+      "team": "Various",
+      "age": 40,
+      "role": "All-rounder",
+      "stats": {
+        "matches": 132,
+        "runs": 2750,
+        "average": 24.77,
+        "strike_rate": 129.71,
+        "highest_score": 83,
+        "centuries": 0,
+        "fifties": 13,
+        "wickets": 36,
+        "economy": 7.43,
+        "best_bowling": "4/29"
+      }
+    },
+    {
+      "name": "Shikhar Dhawan",
+      "team": "Delhi Capitals",
+      "age": 35,
+      "role": "Batsman",
+      "stats": {
+        "matches": 176,
+        "runs": 5197,
+        "average": 34.41,
+        "strike_rate": 126.87,
+        "highest_score": 106,
+        "centuries": 2,
+        "fifties": 42
+      }
+    },
+    {
+      "name": "Kane Williamson",
+      "team": "Sunrisers Hyderabad",
+      "age": 31,
+      "role": "Batsman",
+      "stats": {
+        "matches": 53,
+        "runs": 1619,
+        "average": 39.24,
+        "strike_rate": 134.57,
+        "highest_score": 89,
+        "centuries": 0,
+        "fifties": 13
+      }
+    },
+    {
+      "name": "Gautam Gambhir",
+      "team": "Various",
+      "age": 40,
+      "role": "Batsman",
+      "stats": {
+        "matches": 154,
+        "runs": 4217,
+        "average": 31.23,
+        "strike_rate": 123.88,
+        "highest_score": 93,
+        "centuries": 0,
+        "fifties": 36
+      }
+    },
+    {
+      "name": "Harbhajan Singh",
+      "team": "Kolkata Knight Riders",
+      "age": 41,
+      "role": "Bowler",
+      "stats": {
+        "matches": 160,
+        "wickets": 150,
+        "economy": 7.05,
+        "best_bowling": "5/18"
+      }
+    },
+    {
+      "name": "Kieron Pollard",
+      "team": "Mumbai Indians",
+      "age": 34,
+      "role": "All-rounder",
+      "stats": {
+        "matches": 175,
+        "runs": 3313,
+        "average": 30.67,
+        "strike_rate": 150.87,
+        "highest_score": 83,
+        "centuries": 0,
+        "fifties": 16,
+        "wickets": 63,
+        "economy": 8.38,
+        "best_bowling": "4/44"
+      }
+    },
+    {
+      "name": "Rashid Khan",
+      "team": "Sunrisers Hyderabad",
+      "age": 23,
+      "role": "Bowler",
+      "stats": {
+        "matches": 62,
+        "wickets": 85,
+        "economy": 6.24,
+        "best_bowling": "4/12"
+      }
+    },
+    {
+      "name": "Glenn Maxwell",
+      "team": "Various",
+      "age": 33,
+      "role": "All-rounder",
+      "stats": {
+        "matches": 82,
+        "runs": 1505,
+        "average": 22.13,
+        "strike_rate": 154.67,
+        "highest_score": 95,
+        "centuries": 0,
+        "fifties": 7,
+        "wickets": 19,
+        "economy": 8.04,
+        "best_bowling": "4/31"
+      }
+    },
+    {
+      "name": "Bhuvneshwar Kumar",
+      "team": "Sunrisers Hyderabad",
+      "age": 31,
+      "role": "Bowler",
+      "stats": {
+        "matches": 121,
+        "wickets": 136,
+        "economy": 7.23,
+        "best_bowling": "5/19"
+      }
+    }
+  ]
+}
